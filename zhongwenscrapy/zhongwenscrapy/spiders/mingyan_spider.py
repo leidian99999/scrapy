@@ -38,6 +38,7 @@ class mingyan(scrapy.Spider): # 需要继承scrapy.Spider类
         # page = response.url.split("/")[-2] # 根据上面的连接提取分页，如：/page/1/,提取到的就是：1
         # filename = 'mingyan-%s.html' % page # 拼接文件名，如果是第一页，最终文件名便是：mingyan-1.html
 
+<<<<<<< HEAD
             filename = '%s-语录.txt' % author  # 爬取的内容存入文件，文件名为：作者-语录.txt
             with open(filename,'a+') as f: # python文件操作:追加写入内容
                 # f.write(response.body) # response.body代表刚才下载的页面
@@ -62,3 +63,13 @@ class mingyan(scrapy.Spider): # 需要继承scrapy.Spider类
             参数1：继续爬去next_page
             参数2：把链接交回给parse函数，效果同在下面再写一个parse函数
             '''
+=======
+        filename = '%s-语录.txt' % author  # 爬取的内容存入文件，文件名为：作者-语录.txt
+        with open(filename,'a+') as f: # 追加写入文件
+            # f.write(response.body) # response.body代表刚才下载的页面
+            f.write(text) # 写入名言内容
+            f.write("\n") # 换行
+            f.write("标签：" + tags) # 写入标签
+            f.close() # 关闭文件操作
+            # self.log("保存文件：%s" % filename) # 打印日志
+>>>>>>> 2905de0be9c9adb3d2aa45003eed9cc861e4e1ea
