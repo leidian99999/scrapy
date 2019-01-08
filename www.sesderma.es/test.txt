@@ -1,0 +1,40 @@
+
+
+# 列表页
+list_url = https://www.sesderma.es/eu_es/productos/antiedad.html/
+
+
+
+
+
+# product-name response.xpath('//h2[@class="product-name"]/a/span/text()').extract()[0].strip()
+
+# product-category = response.xpath('//h3[@class="product-category"]/text()').extract()[0].strip()
+
+# price =  response.xpath('//span[@itemprop="price"]/span[@class="price"]/text()').extract()[0]
+
+# image = response.xpath('//img[@itemprop="image"]/@src').extract()[0]
+
+product-url = https://www.sesderma.es/eu_es/c-vit-liposomal-serum.html
+
+# 详情页
+product-name = response.xpath('//li[@class="product"]//text()').extract()[1]
+
+product-category = 
+
+price = response.xpath('//span[@itemprop="price"]/span/text()').extract()[0]
+
+image = response.xpath('//li[@class="images"]/a/@href').extract()[0]
+
+
+baozhuangleixing = response.xpath('//div[@class="box-collateral box-description"]/dl[1]/dd/text()').extract()
+
+rongliang = response.xpath('//div[@class="box-collateral box-description"]/dl[2]/dd/text()').extract()
+
+caizhi = response.xpath('//div[@class="box-collateral box-description"]/dl[3]/dd/text()').extract()
+
+fanwei = response.xpath('//div[@class="box-collateral box-description"]/dl[4]/dd/text()').extract()
+
+xilie = response.xpath('//div[@class="box-collateral box-description"]/dl[5]/dd/text()').extract()
+
+product-description = response.xpath('//div[@class="product-description"]/text()').extract()[0]
