@@ -2,62 +2,111 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87bc548b-8eaf-4a2f-ad26-ce163cc5acb5" name="Default Changelist" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/bole.iml" afterPath="$PROJECT_DIR$/.idea/bole.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bole/items.py" afterPath="$PROJECT_DIR$/bole/items.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bole/pipelines.py" afterPath="$PROJECT_DIR$/bole/pipelines.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bole/settings.py" afterPath="$PROJECT_DIR$/bole/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bole/spiders/jobbole.py" afterPath="$PROJECT_DIR$/bole/spiders/jobbole.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/bole.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bole.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/0104e7c14a36650ad69f34f21bb577491ca53eda.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/048350a1208138d8108e6d38bc41eabf67ac8f5e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/08ba2b57ec77b49bf6b3fb4a4c4b87bca8ad5cff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/0a687469d7d4fb6873f26a7caf0367d0cac77302.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/0f85433e947893303df393719a290423d7e81237.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/1100828c0b6f9be979bd05cda47932b2837fcaba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/13524960e8d4632f6f07ce3aa9b88181ad54518f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/194f2b0a8dbae83e31f5e588ce07a7c329b1cf78.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/1a3e6b893808afff81f33a1229081b6116907b33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/1e0452876f2ed59417a03b36691a48902b1d4df8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/24365bc5370243aadd850bbf791d9296708cb93b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/3027392d6afd75c8cb91d34cb275d62691913fb6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/3a37dbff6f5ba32ea00f037e38047dade9a3d888.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/3cbb4a061ff811dcc7a7121634b91daf2ee70747.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/4187b23274a2bbc3510d7c84cd782519ca63bc67.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/49c6509b4b6997ea4dc3eadffba385b0196497cb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/4fbb723979232d3994dbe80ff0a70569e4b750b1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/52fc032bda4252d78fbedf2ec9b9017c22b299e8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/55fd180456ad2a808bdb7dac9cd21235960e84f4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/57939140dbf75e5ada40cf347e662d353527fb88.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/597dc4ff8d79ef2310809f4c98fb180e640c24d1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/60bf50008f8c0d8c32772354fe08e4c440d26c69.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/6b71dd8cb7b56ba90079b35343c571c0236eb5fb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/6ea9c5ce94fbfafffa7ef307fafcb2915075d336.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/7373ae1893454eb4374f20ed7bdbf4cdf632880c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/78821b9ecfe81189a6a9dfee086115f174e9a91e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/7bdbf7e221ec4007f499eee64f0112c82a6d9da6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/7ed4552a66ed8e7b3d555f550f2efdcc449dd328.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/80417c642334ad91a2c772c8bea03292175ea982.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/821a240836719752ee8f1be9281e9373dabc2aa2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/85e8c4ebed2caecec425a1fcae17d68ad5385912.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/9014a02f1ecd68703e95c54eec1e4f2bd56c8b2c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/9a51fcef743ae4aca8b8c39bcc18e02a01782e9c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/a1e735330306f043b86c38035f5f6ba57657caf2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/aade5abea80e553c9e5aa10d9005cf24fabacb8b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/ae90da58a60a5ad151a509939c2d46eff1516797.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/b0424ba077f9528f8a70a3f255b16b443416f68d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/b37b71904c7c1fcf62a643220e0c50d92097b640.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/b435090c1c73ef857efa8b48e4688fd00a8989f7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/b826a33a6c9716b5994bd16e0eb6ee255fa2d9c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/b8a611cfa1ea0b092e86878fa58778e5abe04768.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/c262b4ffe6f2aef5be5b51199dbee393595438a5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/c6860c580cacb819c633867bc7e3dd8a80645e34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/c8b802de5bdc21490e5a2a7e1882a02e3bf9b939.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/c8f3d046c6d52f8f37059fd33036c6134fe6eb47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/d07946208f3ef4a98e4433233a941ceed5db3de2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/d8fd82e27bfcfd9fa3f580ce90a51f7f874011e6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/da3a937d61bc0c8daf0a6b6a4debe26c79ee154f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/dc3f3abe02d5786d6d2caa044b15d4e14cafdcfa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/e48ca4119d294163be391588a1f202ae5ed2e063.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/e6713d0e0fdf489a0c1a27c9dccac5d3e8c49ae6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/eadb28355fab57e9672e5c965147ef4caca04ac4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/f02d2e7eb1184040c7a09a8a14f24d219b467b39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/f58012236ed750b24224c74eb8511c5331599118.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/fb5cb3a8f8b7e67a68218a9f28549fd3e5721891.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/images/full/fd4623ae6fe04ee99c50825303b41eaf668197cf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bole/spiders/jobbole.py" beforeDir="false" afterPath="$PROJECT_DIR$/bole/spiders/jobbole.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bole/items.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-              <folding />
+            <state relative-caret-position="575">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jobbole.py" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bole/spiders/jobbole.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+            <state relative-caret-position="299">
+              <caret line="29" column="120" selection-start-line="29" selection-start-column="120" selection-end-line="29" selection-end-column="120" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
-                <element signature="e#1189#1205#0" expanded="false" />
+                <element signature="e#1229#1256#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bole/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="21" column="23" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-              <folding />
+            <state relative-caret-position="483">
+              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="common.py" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bole/utils/common.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="23" column="57" lean-forward="false" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+            <state relative-caret-position="529">
+              <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
@@ -65,22 +114,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bole/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-              <folding />
+            <state relative-caret-position="69">
+              <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bole/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="72" column="40" lean-forward="true" selection-start-line="72" selection-start-column="40" selection-end-line="72" selection-end-column="40" />
-              <folding />
+            <state relative-caret-position="1840">
+              <caret line="80" column="28" selection-start-line="80" selection-start-column="28" selection-end-line="80" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -102,85 +149,56 @@
       <list>
         <option value="$PROJECT_DIR$/bole/main.py" />
         <option value="$PROJECT_DIR$/bole/items.py" />
-        <option value="$PROJECT_DIR$/bole/spiders/jobbole.py" />
         <option value="$PROJECT_DIR$/bole/settings.py" />
         <option value="$PROJECT_DIR$/bole/pipelines.py" />
         <option value="$PROJECT_DIR$/bole/utils/common.py" />
+        <option value="$PROJECT_DIR$/bole/spiders/jobbole.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1911" />
-    <option name="y" value="-1504" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1018" />
-    <option name="height" value="1568" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bole" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bole" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bole" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bole" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bole" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bole" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bole" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bole" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spiders" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="bole" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bole" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bole" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bole" type="462c0819:PsiDirectoryNode" />
+              <item name="bole" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bole" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bole" type="462c0819:PsiDirectoryNode" />
+              <item name="bole" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bole" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bole" type="462c0819:PsiDirectoryNode" />
+              <item name="bole" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -200,60 +218,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.main">
-    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bole" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="bole" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bole/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="pipelines" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bole" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="bole" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bole/pipelines.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="jobbole" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bole/spiders" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="bole" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bole/spiders/jobbole.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -270,69 +234,100 @@
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <method />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
+    <configuration name="jobbole" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bole" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bole/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="bole" />
-      <method />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bole/spiders/jobbole.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bole" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bole" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bole/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pipelines" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bole" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bole" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bole/pipelines.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="bole" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="bole" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;.&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
+      <method v="2" />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Python.main" />
-      <item index="1" class="java.lang.String" itemvalue="Python.pipelines" />
-      <item index="2" class="java.lang.String" itemvalue="Python.jobbole" />
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.pipelines" />
+      <item itemvalue="Python.jobbole" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.main" />
-        <item index="1" class="java.lang.String" itemvalue="Python.jobbole" />
-        <item index="2" class="java.lang.String" itemvalue="Python.pipelines" />
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.jobbole" />
+        <item itemvalue="Python.pipelines" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -348,115 +343,76 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1911" y="-1504" width="1018" height="1568" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3230932" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.9271445" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" x="0" y="29" width="1920" height="1001" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.027716994" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39952996" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="374" y="38" width="1000" height="909" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.13988096" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" visible="true" weight="0.029459901" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" x="0" y="29" width="1920" height="1001" id="Run" order="6" type="WINDOWED" weight="0.9271445" />
+      <window_info anchor="bottom" x="374" y="38" width="1000" height="909" id="Debug" order="7" weight="0.39952996" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Data View" order="0" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="9" />
-    </breakpoint-manager>
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bole/spiders/jobbole.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-            <element signature="e#1189#1205#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bole/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python/virtualenvs/scrapy36/Lib/site-packages/twisted/internet/defer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="653" column="0" lean-forward="false" selection-start-line="653" selection-start-column="0" selection-end-line="653" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bole/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bole/spiders/jobbole.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-            <element signature="e#1189#1205#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/Python/virtualenvs/scrapy36/Lib/site-packages/twisted/internet/defer.py" />
     <entry file="file://$PROJECT_DIR$/bole/items.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bole/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="72" column="40" lean-forward="true" selection-start-line="72" selection-start-column="40" selection-end-line="72" selection-end-column="40" />
-          <folding />
+        <state relative-caret-position="575">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bole/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="21" column="23" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-          <folding />
+        <state relative-caret-position="483">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bole/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bole/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1840">
+          <caret line="80" column="28" selection-start-line="80" selection-start-column="28" selection-end-line="80" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bole/utils/common.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="23" column="57" lean-forward="false" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+        <state relative-caret-position="529">
+          <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bole/spiders/jobbole.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="29" column="120" selection-start-line="29" selection-start-column="120" selection-end-line="29" selection-end-column="120" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+            <element signature="e#1229#1256#0" />
           </folding>
         </state>
       </provider>
