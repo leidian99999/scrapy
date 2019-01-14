@@ -7,3 +7,4 @@ soup = BeautifulSoup(html, 'lxml')
 print(soup.head.title)
 print(type(soup.head.title))
 print(soup.head.title.string)
+

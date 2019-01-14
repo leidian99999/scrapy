@@ -9,4 +9,4 @@ html='''
 '''
 from bs4 import BeautifulSoup
 soup = BeautifulSoup(html, 'lxml')
-print(soup.find_all(text=re.compile('link')))
+print(soup.find_all(text=re.compile('link'))) # 结果返回所有正则表达式的节点文本组成的列表

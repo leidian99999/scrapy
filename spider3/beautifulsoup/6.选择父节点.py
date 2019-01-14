@@ -14,4 +14,4 @@ html = """
 """
 from bs4 import BeautifulSoup
 soup = BeautifulSoup(html, 'lxml')
-print(soup.a.parent)
+print(soup.a.parent) # 只有父节点，要所有祖先节点需用parents属性

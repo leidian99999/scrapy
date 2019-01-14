@@ -18,13 +18,8 @@ html='''
 '''
 from bs4 import BeautifulSoup
 soup = BeautifulSoup(html, 'lxml')
-print(soup.find_all(name='ul'))
-print(type(soup.find_all(name='ul')[0]))
+print(soup.find(name='ul'))
+print(type(soup.find(name='ul')))
+print(soup.find(class_='list'))
 
-for ul in soup.find_all(name='ul'):
-    print(ul.find_all(name='li'))
-    
-for ul in soup.find_all(name='ul'):
-    print(ul.find_all(name='li'))
-    for li in ul.find_all(name='li'):
-        print(li.string)
+# find就是返回单个元素(第一个)

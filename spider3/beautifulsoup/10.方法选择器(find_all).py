@@ -16,8 +16,25 @@ html='''
     </div>
 </div>
 '''
+
+
 from bs4 import BeautifulSoup
 soup = BeautifulSoup(html, 'lxml')
-print(soup.find(name='ul'))
-print(type(soup.find(name='ul')))
-print(soup.find(class_='list'))
+
+
+# print(soup.find_all(name='ul'))
+# print('*'*20)
+#
+# print(type(soup.find_all(name='ul')[0]))
+# print('*'*20)
+
+# 遍历得到每个ul里的li标签
+for ul in soup.find_all(name='ul'):
+    print(ul.find_all(name='li'))
+
+print('*'*20)
+# 再次遍历得到每个li的文本
+for ul in soup.find_all(name='ul'):
+    # print(ul.find_all(name='li'))
+    for li in ul.find_all(name='li'):
+        print(li.string)

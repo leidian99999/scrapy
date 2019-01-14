@@ -15,7 +15,8 @@ html = """
 """
 from bs4 import BeautifulSoup
 soup = BeautifulSoup(html, 'lxml')
-print('Next Sibling', soup.a.next_sibling)
-print('Prev Sibling', soup.a.previous_sibling)
-print('Next Siblings', list(enumerate(soup.a.next_siblings)))
-print('Prev Siblings', list(enumerate(soup.a.previous_siblings)))
+print('Next Sibling', soup.a.next_sibling) #下一个兄弟节点
+print('Prev Sibling', soup.a.previous_sibling) # 上一个兄弟节点
+print('Next Siblings', list(enumerate(soup.a.next_siblings))) # 后面所有兄弟节点
+print('Prev Siblings', list(enumerate(soup.a.previous_siblings))) # 前面所有兄弟节点
+

@@ -11,8 +11,21 @@ and they lived at the bottom of a well.</p>
 """
 from bs4 import BeautifulSoup
 soup = BeautifulSoup(html, 'lxml')
-print(soup.title)
-print(type(soup.title))
-print(soup.title.string)
-print(soup.head)
-print(soup.p)
+# print(soup.title) #打印title
+# print(type(soup.title)) # 打印title类型
+# print(soup.title.string) # 打印title文本
+# print(soup.head) # 打印head
+# print(soup.p) # 打印P标签(第一个，后面的没有找到)
+#
+# print(soup.title.name) # 获取节点名称
+
+# 获取属性
+# print(soup.p.attrs) # 获取所有属性
+# print(soup.p.attrs['name']) # 获取name属性值
+
+# 简写
+# print(soup.p['name'])
+# # print(soup.p['class'])
+
+# 获取内容
+print(soup.p.string)

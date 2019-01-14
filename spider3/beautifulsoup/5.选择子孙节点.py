@@ -17,15 +17,20 @@ html = """
         <p class="story">...</p>
 """
 
+# from bs4 import BeautifulSoup
+# soup = BeautifulSoup(html,"lxml")
+# print(soup.p.contents) # contents只得到结果的直接子节点的列表，无孙节点
+
+
+# from bs4 import BeautifulSoup
+# soup = BeautifulSoup(html, 'lxml')
+# print(soup.p.children)
+# for i, child in enumerate(soup.p.children): # 遍历得到子节点
+#     print(i, child)
+
+
 from bs4 import BeautifulSoup
 soup = BeautifulSoup(html, 'lxml')
-print(soup.p.children)
-for i, child in enumerate(soup.p.children):
-    print(i, child)
-    
-    
-from bs4 import BeautifulSoup
-soup = BeautifulSoup(html, 'lxml')
-print(soup.p.descendants)
-for i, child in enumerate(soup.p.descendants):
+print(soup.p.descendants) # 返回生成器类型，遂用for
+for i, child in enumerate(soup.p.descendants): # 遍历得到全部子孙节点
     print(i, child)
