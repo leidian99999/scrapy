@@ -1,68 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87bc548b-8eaf-4a2f-ad26-ce163cc5acb5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/bole.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bole.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/0104e7c14a36650ad69f34f21bb577491ca53eda.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/048350a1208138d8108e6d38bc41eabf67ac8f5e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/08ba2b57ec77b49bf6b3fb4a4c4b87bca8ad5cff.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/0a687469d7d4fb6873f26a7caf0367d0cac77302.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/0f85433e947893303df393719a290423d7e81237.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/1100828c0b6f9be979bd05cda47932b2837fcaba.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/13524960e8d4632f6f07ce3aa9b88181ad54518f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/194f2b0a8dbae83e31f5e588ce07a7c329b1cf78.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/1a3e6b893808afff81f33a1229081b6116907b33.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/1e0452876f2ed59417a03b36691a48902b1d4df8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/24365bc5370243aadd850bbf791d9296708cb93b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/3027392d6afd75c8cb91d34cb275d62691913fb6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/3a37dbff6f5ba32ea00f037e38047dade9a3d888.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/3cbb4a061ff811dcc7a7121634b91daf2ee70747.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/4187b23274a2bbc3510d7c84cd782519ca63bc67.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/49c6509b4b6997ea4dc3eadffba385b0196497cb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/4fbb723979232d3994dbe80ff0a70569e4b750b1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/52fc032bda4252d78fbedf2ec9b9017c22b299e8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/55fd180456ad2a808bdb7dac9cd21235960e84f4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/57939140dbf75e5ada40cf347e662d353527fb88.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/597dc4ff8d79ef2310809f4c98fb180e640c24d1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/60bf50008f8c0d8c32772354fe08e4c440d26c69.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/6b71dd8cb7b56ba90079b35343c571c0236eb5fb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/6ea9c5ce94fbfafffa7ef307fafcb2915075d336.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/7373ae1893454eb4374f20ed7bdbf4cdf632880c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/78821b9ecfe81189a6a9dfee086115f174e9a91e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/7bdbf7e221ec4007f499eee64f0112c82a6d9da6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/7ed4552a66ed8e7b3d555f550f2efdcc449dd328.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/80417c642334ad91a2c772c8bea03292175ea982.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/821a240836719752ee8f1be9281e9373dabc2aa2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/85e8c4ebed2caecec425a1fcae17d68ad5385912.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/9014a02f1ecd68703e95c54eec1e4f2bd56c8b2c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/9a51fcef743ae4aca8b8c39bcc18e02a01782e9c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/a1e735330306f043b86c38035f5f6ba57657caf2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/aade5abea80e553c9e5aa10d9005cf24fabacb8b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/ae90da58a60a5ad151a509939c2d46eff1516797.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/b0424ba077f9528f8a70a3f255b16b443416f68d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/b37b71904c7c1fcf62a643220e0c50d92097b640.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/b435090c1c73ef857efa8b48e4688fd00a8989f7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/b826a33a6c9716b5994bd16e0eb6ee255fa2d9c9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/b8a611cfa1ea0b092e86878fa58778e5abe04768.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/c262b4ffe6f2aef5be5b51199dbee393595438a5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/c6860c580cacb819c633867bc7e3dd8a80645e34.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/c8b802de5bdc21490e5a2a7e1882a02e3bf9b939.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/c8f3d046c6d52f8f37059fd33036c6134fe6eb47.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/d07946208f3ef4a98e4433233a941ceed5db3de2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/d8fd82e27bfcfd9fa3f580ce90a51f7f874011e6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/da3a937d61bc0c8daf0a6b6a4debe26c79ee154f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/dc3f3abe02d5786d6d2caa044b15d4e14cafdcfa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/e48ca4119d294163be391588a1f202ae5ed2e063.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/e6713d0e0fdf489a0c1a27c9dccac5d3e8c49ae6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/eadb28355fab57e9672e5c965147ef4caca04ac4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/f02d2e7eb1184040c7a09a8a14f24d219b467b39.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/f58012236ed750b24224c74eb8511c5331599118.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/fb5cb3a8f8b7e67a68218a9f28549fd3e5721891.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/images/full/fd4623ae6fe04ee99c50825303b41eaf668197cf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bole/spiders/jobbole.py" beforeDir="false" afterPath="$PROJECT_DIR$/bole/spiders/jobbole.py" afterDir="false" />
-    </list>
+    <list default="true" id="87bc548b-8eaf-4a2f-ad26-ce163cc5acb5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,10 +24,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="299">
               <caret line="29" column="120" selection-start-line="29" selection-start-column="120" selection-end-line="29" selection-end-column="120" />
-              <folding>
-                <element signature="e#24#37#0" expanded="true" />
-                <element signature="e#1229#1256#0" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -105,7 +40,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bole/utils/common.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
+            <state relative-caret-position="506">
               <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
@@ -202,7 +137,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../spider" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -343,16 +278,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.13988096" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.13988096" />
       <window_info id="Structure" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Python Console" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" visible="true" weight="0.029459901" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.029459901" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="bottom" x="0" y="29" width="1920" height="1001" id="Run" order="6" type="WINDOWED" weight="0.9271445" />
@@ -382,6 +316,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bole/utils/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/bole/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
@@ -393,16 +337,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1840">
           <caret line="80" column="28" selection-start-line="80" selection-start-column="28" selection-end-line="80" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bole/utils/common.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
