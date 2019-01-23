@@ -18,8 +18,9 @@ html='''
 '''
 from bs4 import BeautifulSoup
 soup = BeautifulSoup(html, 'lxml')
+
 print(soup.find_all(attrs={'id': 'list-1'}))
-print(soup.find_all(attrs={'name': 'elements'}))
+# print(soup.find_all(attrs={'name': 'elements'}))
 
 # from bs4 import BeautifulSoup
 # soup = BeautifulSoup(html, 'lxml')
