@@ -7,3 +7,5 @@ from bson.objectid import ObjectId
 
 result = collection.find_one({'_id': ObjectId('593278c115c2602667ec6bae')})
 print(result)
+
+# 如果结果不存在，返回None
