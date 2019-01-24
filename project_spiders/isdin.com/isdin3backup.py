@@ -13,15 +13,22 @@ product_list = soup.select("div.search-results")
 
 item_list = []
 
-for product in product_list:
-    for title in product.find_all(attrs={'class': 'title_2'}):
-        title2 = list(title.get_text())
-        houseDetails2 = {}
-        houseDetails2['houseName2'] = title2
-        item_list.append(houseDetails2)
+global dict
+
+def aa(product_list):
+    for product in product_list:
+        for title in product.find_all(attrs={'class': 'title_2'}):
+            title2 = title.get_text()
+            global dict
+            dict = {}
+            dict['product_title2'] = title2
+            # print(houseDetails2)
+            item_list.append(dict)
+
     for title in product.find_all(attrs={'class': 'title_1'}):
         title1 = title.get_text()
-        houseDetails1 = {}
+        global dict
+
         houseDetails1['houseName1'] = title1
         item_list.append(houseDetails1)
 
