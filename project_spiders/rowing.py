@@ -24,7 +24,10 @@ for athlete in athlete_list:
     item['country'] = soup.select('h1.athleteInfoTitle span')[0].text
     item['detail_url'] = detail_url
     item_list.append(item)
-
+    print(item)
 import pandas as pd
-df = pd.DataFrame(item_list,columns=item_list[0].keys())
-df.to_excel('athleteRecord.xlsx',index=False)
+# df = pd.DataFrame(item_list,columns=item_list[0].keys())
+# df.to_excel('athleteRecord.xlsx',index=False)
+
+print("*"*100)
+print(item_list[0].keys())

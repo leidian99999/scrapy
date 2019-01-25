@@ -13,29 +13,14 @@ product_list = soup.select("div.search-results")
 
 item_list = []
 
-global dict
-
-def aa(product_list):
-    for product in product_list:
-        for title in product.find_all(attrs={'class': 'title_2'}):
-            title2 = title.get_text()
-            global dict
-            dict = {}
-            dict['product_title2'] = title2
-            # print(houseDetails2)
-            item_list.append(dict)
-
-    for title in product.find_all(attrs={'class': 'title_1'}):
-        title1 = title.get_text()
-        global dict
-
-        houseDetails1['houseName1'] = title1
-        item_list.append(houseDetails1)
+item_title1 = soup.select('div.title_1')
+item_title2 = soup.select('div.title_2')
+item_title3 = soup.select('div.title_3')
+item_vende = soup.select('div.vende')
+item_img = soup.select('div.img')
 
 
-# df = pd.DataFrame(item_list, columns=item_list[0].keys())
-# writer = pd.ExcelWriter(r"F:\test4.xlsx")
-# df_ZT.to_excel(writer,sheet_name="中通",index=False)
-# df_JD.to_excel(writer,sheet_name="京东",index=False)
 
-# df.to_excel('estest.xlsx',index=False)
+print("*"*100)
+
+print("*"*100)
