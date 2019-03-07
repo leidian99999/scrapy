@@ -57,3 +57,4 @@ if __name__ == '__main__':
     dbname = 'landPlan'
     collname = 'xian'
     convertmongodb(host, dbname, collname)
+    
