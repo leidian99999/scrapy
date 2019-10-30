@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for dianping project
+# Scrapy settings for Amazon project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,19 +9,20 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'dianping'
+BOT_NAME = 'Amazon'
 
-SPIDER_MODULES = ['dianping.spiders']
-NEWSPIDER_MODULE = 'dianping.spiders'
+SPIDER_MODULES = ['Amazon.spiders']
+NEWSPIDER_MODULE = 'Amazon.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-USER_AGENT = 'IE 7.0":"User-Agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)'
+USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36'
 
 # Obey robots.txt rules
-# ROBOTSTXT_OBEY = False
+# ROBOTSTXT_OBEY = True
 
 LOG_LEVEL = "WARN"
+
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
@@ -35,27 +36,27 @@ LOG_LEVEL = "WARN"
 #CONCURRENT_REQUESTS_PER_IP = 16
 
 # Disable cookies (enabled by default)
-COOKIES_ENABLED = True
+#COOKIES_ENABLED = False
 
 # Disable Telnet Console (enabled by default)
 #TELNETCONSOLE_ENABLED = False
 
 # Override the default request headers:
-DEFAULT_REQUEST_HEADERS = {
-  'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
-  'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
-}
+#DEFAULT_REQUEST_HEADERS = {
+#   'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+#   'Accept-Language': 'en',
+#}
 
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'dianping.middlewares.DianpingSpiderMiddleware': 543,
+#    'Amazon.middlewares.AmazonSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'dianping.middlewares.DianpingDownloaderMiddleware': 543,
+#    'Amazon.middlewares.AmazonDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -67,7 +68,7 @@ DEFAULT_REQUEST_HEADERS = {
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-   'dianping.pipelines.DianpingPipeline': 300,
+   'Amazon.pipelines.AmazonPipeline': 300,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)

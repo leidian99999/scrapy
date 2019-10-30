@@ -18,11 +18,9 @@ class MeishiSpider(scrapy.Spider):
         # print(response.body)
         nodeList = response.xpath('//div[@class="tit"]')
         for node in nodeList:
-            # item = DianpingItem()
-            # name = node.xpath("//h4")
-            # item['name'] = node.xpath("./h4")
-            print("*" * 50)
-            print(node)
-        #     # yield item
-        # pass
+            item = DianpingItem()
+            name = node.xpath(".//h4.text()").extract_first()
+            item['name'] = name
+            yield item
+
 
