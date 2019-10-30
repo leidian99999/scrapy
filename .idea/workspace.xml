@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cba138e5-fc4b-4a58-97b7-bcd340d23a54" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dianping/dianping/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/dianping/dianping/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dianping/dianping/spiders/meishi.py" beforeDir="false" afterPath="$PROJECT_DIR$/dianping/dianping/spiders/meishi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dianping/dianping/spiders/tencent.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
