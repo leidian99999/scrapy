@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="cba138e5-fc4b-4a58-97b7-bcd340d23a54" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chinasspp/chinasspp/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/chinasspp/chinasspp/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chinasspp/chinasspp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/chinasspp/chinasspp/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chinasspp/chinasspp/spiders/sspp_meishicanyin.py" beforeDir="false" afterPath="$PROJECT_DIR$/chinasspp/chinasspp/spiders/sspp_meishicanyin.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

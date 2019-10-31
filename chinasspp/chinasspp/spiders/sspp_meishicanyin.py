@@ -8,6 +8,7 @@ class SsppMeishicanyinSpider(scrapy.Spider):
     start_urls = ['http://www.chinasspp.com/brand/%E7%BE%8E%E9%A3%9F%E9%A4%90%E9%A5%AE/']
 
     def parse(self, response):
+        print(response.url)
         elements = response.xpath('//div[@class="l"]/div[@class="brand"]')
         for element in elements:
             item = ChinassppItem()
@@ -21,6 +22,11 @@ class SsppMeishicanyinSpider(scrapy.Spider):
             item["CompanyName"] = element.xpath('./p[@class="first"]/text()').extract()[-1].strip()
 
             yield item
+        next_url = response.xpath('//p[@id="l_page"]/a[last()]/@href').extract()[0]
+        if not next_url:
+            return
+        else:
+            yield scrapy.Request(next_url,callback=self.parse)
 
 
 

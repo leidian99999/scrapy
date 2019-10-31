@@ -10,7 +10,7 @@ import json
 
 class ChinassppPipeline(object):
     def __init__(self): # 第一次执行，之后不执行
-        self.f = open("chinasspp_meishi_pg1.json","wb")
+        self.f = open("chinasspp_meishi_pgall.json","wb")
 
 
     def process_item(self, item, spider): # 每次item传来时执行
