@@ -66,7 +66,7 @@ def get_information_one():
             'title':item('.J_ClickStat').text(),
             'store_name':item('.shopname').text(),
             'location':item('.location').text(),
-            
+
             # 'True_price':get_child_information[0],
             # 'comment_num':get_child_information[1],
             # 'people_call':get_child_information[2],
