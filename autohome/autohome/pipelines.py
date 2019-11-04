@@ -47,3 +47,4 @@ class AutohomeImagesPipline(ImagesPipeline):
         path = super(AutohomeImagesPipline, self).file_path(request,response,info)
         category = request.item.get("category")
         images_store = settings.IMAGES_STORE
+        category_path = os.path.join
