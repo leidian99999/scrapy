@@ -24,7 +24,7 @@ USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
 
-LOG_LEVEL ="WARN"
+# LOG_LEVEL ="WARN"
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
@@ -71,7 +71,8 @@ DEFAULT_REQUEST_HEADERS = {
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
    # 'autohome.pipelines.AutohomePipeline': 300,
-    'scrapy.pipelines.images.ImagesPipeline':1
+   #  'scrapy.pipelines.images.ImagesPipeline':1 # 系统自带异步下载
+    'autohome.pipelines.AutohomeImagesPipline':1
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
