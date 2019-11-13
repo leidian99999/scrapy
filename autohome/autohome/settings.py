@@ -70,9 +70,9 @@ DEFAULT_REQUEST_HEADERS = {
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-   # 'autohome.pipelines.AutohomePipeline': 300,
+   'autohome.pipelines.AutohomePipeline': 300,
    #  'scrapy.pipelines.images.ImagesPipeline':1 # 系统自带异步下载
-    'autohome.pipelines.AutohomeImagesPipline':1
+   #  'autohome.pipelines.AutohomeImagesPipline':1
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
@@ -98,4 +98,4 @@ ITEM_PIPELINES = {
 
 
 # 图片下载的保存路径，供 images piplines使用
-IMAGES_STORE = "D:/xiazai1/scrapy/autohome/pics/巴博斯/G级"
+# IMAGES_STORE = "D:/xiazai1/scrapy/autohome/pics/巴博斯/G级"

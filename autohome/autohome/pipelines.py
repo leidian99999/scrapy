@@ -14,7 +14,8 @@ from autohome import settings
 class AutohomePipeline(object):
     def __init__(self):
         # self.path = os.path.join(os.path.dirname(os.path.dirname(__file__)),'images') # 构建路径，本目录的上级目录的"images"文件夹
-        self.path = r"D:\xiazai1\scrapy\autohome\pics\mazda\ATENZA"
+        # self.path = r"D:\xiazai1\scrapy\autohome\pics\mazda\ATENZA"
+        self.path = "D:/xiazai1/scrapy/autohome/pics/巴博斯/G级"
         if not os.path.exists(self.path):
             os.mkdir(self.path)
 
@@ -22,7 +23,7 @@ class AutohomePipeline(object):
     def process_item(self, item, spider):
         category = item['category']
         img_urls = item["img_urls"]
-        img_name = item["img_name"]
+        # img_name = item["img_name"]
 
         category_path = os.path.join(self.path,category)
         if not os.path.exists(category_path):

@@ -12,5 +12,5 @@ class AutohomeItem(scrapy.Item):
     category = scrapy.Field()
     image_urls = scrapy.Field()
     images = scrapy.Field()
-    img_name = scrapy.Field()
+    # img_name = scrapy.Field()
 

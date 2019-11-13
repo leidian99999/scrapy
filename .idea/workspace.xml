@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="cba138e5-fc4b-4a58-97b7-bcd340d23a54" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/autohome/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/autohome/autohome/items.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/autohome/autohome/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/autohome/autohome/pipelines.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/autohome/autohome/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/autohome/autohome/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/autohome/spiders/ATENZA_list_pics.py" beforeDir="false" afterPath="$PROJECT_DIR$/autohome/autohome/spiders/ATENZA_list_pics.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,12 +23,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-215" />
-    <option name="y" value="1301" />
-    <option name="width" value="1940" />
-    <option name="height" value="1334" />
   </component>
   <component name="ProjectId" id="1SopLFY2pExhTjKQiosexNENOug" />
   <component name="ProjectLevelVcsManager">

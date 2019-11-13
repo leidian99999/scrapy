@@ -17,5 +17,5 @@ class AtenzaListPicsSpider(scrapy.Spider):
             #     url = "https:" + url
             #     print(url)
             img_urls = list(map(lambda url:response.urljoin(url),img_urls))
-            item = AutohomeItem(category=category,image_urls=img_urls,img_name=img_name)
+            item = AutohomeItem(category=category,image_urls=img_urls)
             yield item
