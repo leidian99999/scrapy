@@ -3,10 +3,69 @@
   <component name="ChangeListManager">
     <list default="true" id="cba138e5-fc4b-4a58-97b7-bcd340d23a54" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autohome/autohome/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/autohome/autohome/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autohome/autohome/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/autohome/autohome/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autohome/autohome/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/autohome/autohome/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autohome/autohome/spiders/ATENZA_list_pics.py" beforeDir="false" afterPath="$PROJECT_DIR$/autohome/autohome/spiders/ATENZA_list_pics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/autohome/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/autohome/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/autohome/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/autohome/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/autohome/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/autohome/spiders/ATENZA_list_pics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/autohome/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/中控方向盘/20150304042235885-111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/中控方向盘/20150304042237273-111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/中控方向盘/20150304042238584-111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/中控方向盘/20150304042343610-110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/中控方向盘/20150304042344889-110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/中控方向盘/20150304042346216-110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/中控方向盘/20150304042347573-110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/中控方向盘/UTA4c793.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/其它细节/20150304042448929-111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/其它细节/20150304042450349-111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/其它细节/20150304042451940-111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/其它细节/20150304042456355-111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/其它细节/20150304042457666-111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/其它细节/20150304042459039-111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/其它细节/20150304042500458-111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/其它细节/20150304042501831-111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/改装/201401101305583533655.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/改装/201401101306005403655.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/改装/201401101306016293655.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/改装/201401101306031573655.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/改装/201401101306037693655.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/改装/201401101306083713655.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/改装/201401101306103843655.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/改装/201401101306117253655.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/评测/201310131356536424218.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/评测/201310131357534384218.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/评测/201310131358417504218.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/评测/201310131359276934218.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/评测/201310131400055234218.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/评测/201310131400501394218.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/评测/201310131401323524218.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/车厢座椅/20150304042239956-111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/车厢座椅/20150304042310955-111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/车厢座椅/20150304042312422-111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/车厢座椅/20150304042401877-111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/车厢座椅/20150304042403281-111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/车厢座椅/20150304042404685-111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/车厢座椅/AAIfsf6N6bs044.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/车厢座椅/wKgH6FaEmwmAUciTAAJfniT6aUA847.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/车身外观/20141003031753134-111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/车身外观/20141003031754319-111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/车身外观/20141003031755474-111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/车身外观/20150304042512019-110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/车身外观/20150304042513392-110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/车身外观/20150304042514765-110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/车身外观/wKgH2VaEmwqAHtNJAAHKTKRKsaw147.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/车身外观/wKgH6FaEmwuAUZP0AAHjgkXz4FE854.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/重要特点/201309301410595714218.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/重要特点/201309301411020304218.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/重要特点/201401201520389634098.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/重要特点/201401201520399204098.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/重要特点/201401201520417404098.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/重要特点/201401201520431344098.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/重要特点/201401201520450784098.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/images/重要特点/201401201520460044098.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autohome/scrapy.cfg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,49 +104,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.selenium_TB">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="scrapy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/thirdDemo-master" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thirdDemo-master/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="selenium" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="scrapy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spider3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\GitHub\scrapy\spider3\selenium_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.start (1)">
     <configuration name="selenium_TB" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="scrapy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,13 +168,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="start (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="scrapy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bmw" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bmw/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="scrapy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/autohome" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/autohome/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.start (1)" />
+        <item itemvalue="Python.start" />
         <item itemvalue="Python.selenium_TB" />
         <item itemvalue="Python.spider_TB_test" />
         <item itemvalue="Python.selenium_test" />
-        <item itemvalue="Python.selenium" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
